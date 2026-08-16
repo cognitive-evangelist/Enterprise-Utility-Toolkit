@@ -62,6 +62,7 @@ To work with this repository, the following are recommended:
 * Visual Studio Code or another Git-enabled IDE
 * Command Prompt or PowerShell
 * Basic understanding of files and directories
+* Python 3.11 or later
 
 Verify Git installation:
 
@@ -1390,7 +1391,7 @@ The documentation structure may evolve as new topics are introduced.
 * [ ] Merge Strategies
 * [ ] Merge Conflict Resolution
 * [ ] Branch Protection
-* [ ] CI/CD
+* [ ] CI/CD Pipeline Integration
 * [ ] Release Management
 * [ ] Version Tags
 * [ ] Enterprise Git Governance
